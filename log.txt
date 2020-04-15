@@ -1,0 +1,302 @@
+================MOVIE=======================
+Title: Saving Private Ryan
+Release year: 1998
+IMDB rating: 8.6
+Rotten Tomatoes rating: 93%
+Nation: USA
+Language: English, French, German, Czech
+Plot: Following the Normandy Landings, a group of U.S. soldiers go behind enemy lines to retrieve a paratrooper whose brothers have been killed in action.
+Actors: Tom Hanks, Tom Sizemore, Edward Burns, Barry Pepper
+=============================================
+-----------------------------------------------------
+=================Rocket Man=================
+Venue name: Symphony Hall
+Venue city: Birmingham
+Event Date: Jun 5th, 2020 07:30
+++++++++++++++++++++++++++++++++++++++++++++
+-----------------------------------------------------
+=================Rocket Man=================
+Venue name: Innsbrook After Hours
+Venue city: Glen Allen
+Event Date: Jul 8th, 2020 06:00
+++++++++++++++++++++++++++++++++++++++++++++
+-----------------------------------------------------
+=================Rocket Man=================
+Venue name: PALAIS DES CONGRES-SALLE ERASME
+Venue city: Strasbourg
+Event Date: Feb 3rd, 2021 08:00
+++++++++++++++++++++++++++++++++++++++++++++
+-----------------------------------------------------
+=================Rocket Man=================
+Venue name: Axone
+Venue city: Montbeliard
+Event Date: Feb 4th, 2021 08:00
+++++++++++++++++++++++++++++++++++++++++++++
+-----------------------------------------------------
+=================Rocket Man=================
+Venue name: L'amphithéâtre
+Venue city: Lyon
+Event Date: Feb 6th, 2021 08:30
+++++++++++++++++++++++++++++++++++++++++++++
+-----------------------------------------------------
+=================Rocket Man=================
+Venue name: ACROPOLIS SALLE APOLLON
+Venue city: Nice
+Event Date: Feb 7th, 2021 06:00
+++++++++++++++++++++++++++++++++++++++++++++
+-----------------------------------------------------
+=================Rocket Man=================
+Venue name: Les Espaces Culturels du Silo d'Arenc
+Venue city: Marseille
+Event Date: Feb 9th, 2021 08:00
+++++++++++++++++++++++++++++++++++++++++++++
+-----------------------------------------------------
+=================Rocket Man=================
+Venue name: ZENITH SUD MONTPELLIER
+Venue city: Montpellier
+Event Date: Feb 10th, 2021 08:00
+++++++++++++++++++++++++++++++++++++++++++++
+-----------------------------------------------------
+=================Rocket Man=================
+Venue name: Zénith de Toulouse
+Venue city: Toulouse
+Event Date: Feb 11th, 2021 08:00
+++++++++++++++++++++++++++++++++++++++++++++
+-----------------------------------------------------
+=================Rocket Man=================
+Venue name: Narbonne Arena
+Venue city: Narbonne
+Event Date: Feb 12th, 2021 08:00
+++++++++++++++++++++++++++++++++++++++++++++
+-----------------------------------------------------
+=================Rocket Man=================
+Venue name: CITE DES CONGRES
+Venue city: Nantes
+Event Date: Feb 16th, 2021 08:00
+++++++++++++++++++++++++++++++++++++++++++++
+-----------------------------------------------------
+=================Rocket Man=================
+Venue name: Le Liberte
+Venue city: Rennes
+Event Date: Feb 17th, 2021 08:00
+++++++++++++++++++++++++++++++++++++++++++++
+-----------------------------------------------------
+=================Rocket Man=================
+Venue name: CAPITOLE EN CHAMPAGNE
+Venue city: Châlons-en-champagne
+Event Date: Feb 20th, 2021 08:30
+++++++++++++++++++++++++++++++++++++++++++++
+-----------------------------------------------------
+=================Rocket Man=================
+Venue name: The Glasgow Royal Concert Hall
+Venue city: Glasgow
+Event Date: Feb 21st, 2021 07:30
+++++++++++++++++++++++++++++++++++++++++++++
+-----------------------------------------------------
+=================Rocket Man=================
+Venue name: Symphony Hall
+Venue city: Birmingham
+Event Date: Feb 22nd, 2021 07:30
+++++++++++++++++++++++++++++++++++++++++++++
+-----------------------------------------------------
+=================Rocket Man=================
+Venue name: Eventim Apollo Hammersmith
+Venue city: London
+Event Date: Feb 24th, 2021 07:30
+++++++++++++++++++++++++++++++++++++++++++++
+-----------------------------------------------------
+=================Rocket Man=================
+Venue name: Usher Hall
+Venue city: Edinburgh
+Event Date: Jun 18th, 2020 07:30
+++++++++++++++++++++++++++++++++++++++++++++
+-----------------------------------------------------
+=================Rocket Man=================
+Venue name: Eventim Apollo Hammersmith
+Venue city: London
+Event Date: Jun 13th, 2020 07:30
+++++++++++++++++++++++++++++++++++++++++++++
+-----------------------------------------------------
+=================Rocket Man=================
+Venue name: The Glasgow Royal Concert Hall
+Venue city: Glasgow
+Event Date: Jun 17th, 2020 07:30
+++++++++++++++++++++++++++++++++++++++++++++
+-----------------------------------------------------
+================MOVIE=======================
+Title: Saving Private Ryan
+Release year: 1998
+IMDB rating: 8.6
+Rotten Tomatoes rating: 93%
+Nation: USA
+Language: English, French, German, Czech
+Plot: Following the Normandy Landings, a group of U.S. soldiers go behind enemy lines to retrieve a paratrooper whose brothers have been killed in action.
+Actors: Tom Hanks, Tom Sizemore, Edward Burns, Barry Pepper
+=============================================
+-----------------------------------------------------
+=============SPOTIFY-THIS-SONG===============
+Artist Name: Jessie Reyez
+Song Name: COFFIN (feat. Eminem)
+Preview song link: https://open.spotify.com/track/4HqPiUgeE9z0MHLXkgUQkQ
+Song Album: BEFORE LOVE CAME TO KILL US
+---------------------------------------------
+-----------------------------------------------------
+=============SPOTIFY-THIS-SONG===============
+Artist Name: Gu Mitch
+Song Name: Coffin
+Preview song link: https://open.spotify.com/track/57udDKqPcITSz2pqZ5a4TG
+Song Album: Coffin
+---------------------------------------------
+-----------------------------------------------------
+=============SPOTIFY-THIS-SONG===============
+Artist Name: Adam Calhoun
+Song Name: Coffin Talk
+Preview song link: https://open.spotify.com/track/2L1FE5RqNNtsIi513EazEz
+Song Album: Billy G.O.A.T.
+---------------------------------------------
+-----------------------------------------------------
+=============SPOTIFY-THIS-SONG===============
+Artist Name: MF DOOM
+Song Name: Coffin Nails
+Preview song link: https://open.spotify.com/track/0tUb9gLtHyTzzycyNzr9Uh
+Song Album: Metal Fingers Presents: Special Herbs, The Box Set Vol. 0 - 9
+---------------------------------------------
+-----------------------------------------------------
+=============SPOTIFY-THIS-SONG===============
+Artist Name: The Amity Affliction
+Song Name: Coffin
+Preview song link: https://open.spotify.com/track/1DPTWVy3v3bkk2ZNXwON9Y
+Song Album: Everyone Loves You... Once You Leave Them
+---------------------------------------------
+-----------------------------------------------------
+=================Eagles=================
+Venue name: Mick's Garage by Crate Brewery
+Venue city: London
+Event Date: May 2nd, 2020 04:00
+++++++++++++++++++++++++++++++++++++++++++++
+-----------------------------------------------------
+=================Eagles=================
+Venue name: Cabo en Vivo
+Venue city: San José Del Cabo
+Event Date: May 23rd, 2020 07:00
+++++++++++++++++++++++++++++++++++++++++++++
+-----------------------------------------------------
+=================Eagles=================
+Venue name: Wembley Stadium
+Venue city: London
+Event Date: Aug 29th, 2020 07:00
+++++++++++++++++++++++++++++++++++++++++++++
+-----------------------------------------------------
+=================Eagles=================
+Venue name: Wembley Stadium
+Venue city: London
+Event Date: Aug 30th, 2020 07:00
+++++++++++++++++++++++++++++++++++++++++++++
+-----------------------------------------------------
+=================Eagles=================
+Venue name: Pepsi Center
+Venue city: Denver
+Event Date: Sep 18th, 2020 08:00
+++++++++++++++++++++++++++++++++++++++++++++
+-----------------------------------------------------
+=================Eagles=================
+Venue name: Pepsi Center
+Venue city: Denver
+Event Date: Sep 19th, 2020 08:00
+++++++++++++++++++++++++++++++++++++++++++++
+-----------------------------------------------------
+=================Eagles=================
+Venue name: The Forum
+Venue city: Los Angeles
+Event Date: Sep 25th, 2020 08:00
+++++++++++++++++++++++++++++++++++++++++++++
+-----------------------------------------------------
+=================Eagles=================
+Venue name: The Forum
+Venue city: Los Angeles
+Event Date: Sep 26th, 2020 08:00
+++++++++++++++++++++++++++++++++++++++++++++
+-----------------------------------------------------
+=================Eagles=================
+Venue name: The Forum
+Venue city: Los Angeles
+Event Date: Sep 29th, 2020 08:00
+++++++++++++++++++++++++++++++++++++++++++++
+-----------------------------------------------------
+=================Eagles=================
+Venue name: Chase Center
+Venue city: San Francisco
+Event Date: Oct 2nd, 2020 08:00
+++++++++++++++++++++++++++++++++++++++++++++
+-----------------------------------------------------
+=================Eagles=================
+Venue name: Chase Center
+Venue city: San Francisco
+Event Date: Oct 3rd, 2020 07:00
+++++++++++++++++++++++++++++++++++++++++++++
+-----------------------------------------------------
+=================Eagles=================
+Venue name: Xcel Energy Center
+Venue city: St Paul
+Event Date: Oct 16th, 2020 07:00
+++++++++++++++++++++++++++++++++++++++++++++
+-----------------------------------------------------
+=================Eagles=================
+Venue name: American Airlines Center
+Venue city: Dallas
+Event Date: Oct 21st, 2020 08:00
+++++++++++++++++++++++++++++++++++++++++++++
+-----------------------------------------------------
+=================Eagles=================
+Venue name: Xcel Energy Center
+Venue city: St Paul
+Event Date: Oct 17th, 2020 08:00
+++++++++++++++++++++++++++++++++++++++++++++
+-----------------------------------------------------
+=================Eagles=================
+Venue name: Talking Stick Resort Arena
+Venue city: Phoenix
+Event Date: Oct 25th, 2020 08:00
+++++++++++++++++++++++++++++++++++++++++++++
+-----------------------------------------------------
+=================Eagles=================
+Venue name: Talking Stick Resort Arena
+Venue city: Phoenix
+Event Date: Oct 24th, 2020 08:00
+++++++++++++++++++++++++++++++++++++++++++++
+-----------------------------------------------------
+=============SPOTIFY-THIS-SONG===============
+Artist Name: JACKBOYS
+Song Name: OUT WEST (feat. Young Thug)
+Preview song link: https://open.spotify.com/track/6gi6y1xwmVszDWkUqab1qw
+Song Album: JACKBOYS
+---------------------------------------------
+-----------------------------------------------------
+=============SPOTIFY-THIS-SONG===============
+Artist Name: Young Thug
+Song Name: Hot (Remix) [feat. Gunna and Travis Scott]
+Preview song link: https://open.spotify.com/track/56AMYGJzxBO6p8v0wEe9de
+Song Album: Hot (Remix) [feat. Gunna and Travis Scott]
+---------------------------------------------
+-----------------------------------------------------
+=============SPOTIFY-THIS-SONG===============
+Artist Name: Travis Scott
+Song Name: SICKO MODE
+Preview song link: https://open.spotify.com/track/2xLMifQCjDGFmkHkpNLD9h
+Song Album: ASTROWORLD
+---------------------------------------------
+-----------------------------------------------------
+=============SPOTIFY-THIS-SONG===============
+Artist Name: Travis Scott
+Song Name: goosebumps
+Preview song link: https://open.spotify.com/track/6gBFPUFcJLzWGx4lenP6h2
+Song Album: Birds In The Trap Sing McKnight
+---------------------------------------------
+-----------------------------------------------------
+=============SPOTIFY-THIS-SONG===============
+Artist Name: Travis Scott
+Song Name: HIGHEST IN THE ROOM
+Preview song link: https://open.spotify.com/track/3eekarcy7kvN4yt5ZFzltW
+Song Album: HIGHEST IN THE ROOM
+---------------------------------------------
+-----------------------------------------------------
